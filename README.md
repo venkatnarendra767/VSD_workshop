@@ -1,7 +1,7 @@
 # VSD_workshop
 👤 About Me
 
-Hi! I'm Venkata Narendra, currently exploring VLSI and Physical Design.
+Hi! I'm Venkata Narendra Reddy Yaramala, currently exploring VLSI and Physical Design.
 This repository is created to organize and track my work for the Digital VLSI SoC Design course.
 
 🎓 Course Details
