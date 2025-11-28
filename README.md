@@ -1,5 +1,5 @@
 # VSD_workshop
-👤 About Me
+👤 About Me (venkatnarendra767@gmail.com)
 
 Hi! I'm Venkata Narendra Reddy Yaramala, currently exploring VLSI and Physical Design.
 This repository is created to organize and track my work for the Digital VLSI SoC Design course.
