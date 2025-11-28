@@ -19,7 +19,6 @@ This branch will contain:
 📄 PDF files of results
 📑 Visual proofs of completed tasks
 
-⏳ All files will be uploaded one day before the course completion.
 
 📝 Branch 2 — Notes
 
@@ -30,4 +29,3 @@ This branch will include:
 ✍️ Key takeaways
 📘 Written explanations
 
-⏳ Notes will also be uploaded one day before the course completion.
