@@ -11,7 +11,7 @@ This repository is created to organize and track my work for the Digital VLSI So
 
 📁 Repository Structure
 
-🌟 Branch 1 — Screenshots & PDFs
+🌟 Branch 2 — Screenshots 
 
 This branch will contain:
 
@@ -20,7 +20,7 @@ This branch will contain:
 📑 Visual proofs of completed tasks
 
 
-📝 Branch 2 — Notes
+📝 Branch 1 — Handwritten Notes
 
 This branch will include:
 
